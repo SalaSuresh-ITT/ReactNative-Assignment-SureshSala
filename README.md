@@ -32,4 +32,4 @@ To open the ios project in XCode, double click on Assignment_Proj.xcworkspace fi
 <PROJECT LOCATION>/ReactNative-Assignment-SureshSala/ios/Assignment_Proj.xcworkspace
 ```
   
-
+To test this assignment, any 10 digit number as phone number and 1234 is the valid OTP.
